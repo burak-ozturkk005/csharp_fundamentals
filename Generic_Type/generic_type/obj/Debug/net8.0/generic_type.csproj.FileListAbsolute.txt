@@ -1,0 +1,14 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_type\bin\Debug\net8.0\generic_type.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_type\bin\Debug\net8.0\generic_type.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_type\bin\Debug\net8.0\generic_type.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_type\bin\Debug\net8.0\generic_type.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_type\bin\Debug\net8.0\generic_type.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_type\obj\Debug\net8.0\generic_type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_type\obj\Debug\net8.0\generic_type.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_type\obj\Debug\net8.0\generic_type.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_type\obj\Debug\net8.0\generic_type.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_type\obj\Debug\net8.0\generic_type.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_type\obj\Debug\net8.0\refint\generic_type.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_type\obj\Debug\net8.0\generic_type.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_type\obj\Debug\net8.0\generic_type.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_type\obj\Debug\net8.0\ref\generic_type.dll

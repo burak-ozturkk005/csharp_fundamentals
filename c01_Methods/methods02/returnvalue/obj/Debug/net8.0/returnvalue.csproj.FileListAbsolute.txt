@@ -1,0 +1,14 @@
+c:\Users\burak\OneDrive\Masaüstü\C#\c01_Methods\methods02\returnvalue\bin\Debug\net8.0\returnvalue.exe
+c:\Users\burak\OneDrive\Masaüstü\C#\c01_Methods\methods02\returnvalue\bin\Debug\net8.0\returnvalue.deps.json
+c:\Users\burak\OneDrive\Masaüstü\C#\c01_Methods\methods02\returnvalue\bin\Debug\net8.0\returnvalue.runtimeconfig.json
+c:\Users\burak\OneDrive\Masaüstü\C#\c01_Methods\methods02\returnvalue\bin\Debug\net8.0\returnvalue.dll
+c:\Users\burak\OneDrive\Masaüstü\C#\c01_Methods\methods02\returnvalue\bin\Debug\net8.0\returnvalue.pdb
+c:\Users\burak\OneDrive\Masaüstü\C#\c01_Methods\methods02\returnvalue\obj\Debug\net8.0\returnvalue.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\burak\OneDrive\Masaüstü\C#\c01_Methods\methods02\returnvalue\obj\Debug\net8.0\returnvalue.AssemblyInfoInputs.cache
+c:\Users\burak\OneDrive\Masaüstü\C#\c01_Methods\methods02\returnvalue\obj\Debug\net8.0\returnvalue.AssemblyInfo.cs
+c:\Users\burak\OneDrive\Masaüstü\C#\c01_Methods\methods02\returnvalue\obj\Debug\net8.0\returnvalue.csproj.CoreCompileInputs.cache
+c:\Users\burak\OneDrive\Masaüstü\C#\c01_Methods\methods02\returnvalue\obj\Debug\net8.0\returnvalue.dll
+c:\Users\burak\OneDrive\Masaüstü\C#\c01_Methods\methods02\returnvalue\obj\Debug\net8.0\refint\returnvalue.dll
+c:\Users\burak\OneDrive\Masaüstü\C#\c01_Methods\methods02\returnvalue\obj\Debug\net8.0\returnvalue.pdb
+c:\Users\burak\OneDrive\Masaüstü\C#\c01_Methods\methods02\returnvalue\obj\Debug\net8.0\returnvalue.genruntimeconfig.cache
+c:\Users\burak\OneDrive\Masaüstü\C#\c01_Methods\methods02\returnvalue\obj\Debug\net8.0\ref\returnvalue.dll

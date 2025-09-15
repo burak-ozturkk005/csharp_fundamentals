@@ -1,0 +1,15 @@
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_operators\operators\bin\Debug\net8.0\operators.exe
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_operators\operators\bin\Debug\net8.0\operators.deps.json
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_operators\operators\bin\Debug\net8.0\operators.runtimeconfig.json
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_operators\operators\bin\Debug\net8.0\operators.dll
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_operators\operators\bin\Debug\net8.0\operators.pdb
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_operators\operators\obj\Debug\net8.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_operators\operators\obj\Debug\net8.0\operators.AssemblyInfoInputs.cache
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_operators\operators\obj\Debug\net8.0\operators.AssemblyInfo.cs
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_operators\operators\obj\Debug\net8.0\operators.csproj.CoreCompileInputs.cache
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_operators\operators\obj\Debug\net8.0\operators.sourcelink.json
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_operators\operators\obj\Debug\net8.0\operators.dll
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_operators\operators\obj\Debug\net8.0\refint\operators.dll
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_operators\operators\obj\Debug\net8.0\operators.pdb
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_operators\operators\obj\Debug\net8.0\operators.genruntimeconfig.cache
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_operators\operators\obj\Debug\net8.0\ref\operators.dll

@@ -1,0 +1,15 @@
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_Strings\string1\obj\Debug\net8.0\string1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_Strings\string1\obj\Debug\net8.0\string1.AssemblyInfoInputs.cache
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_Strings\string1\obj\Debug\net8.0\string1.AssemblyInfo.cs
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_Strings\string1\obj\Debug\net8.0\string1.csproj.CoreCompileInputs.cache
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_Strings\string1\obj\Debug\net8.0\string1.sourcelink.json
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_Strings\string1\bin\Debug\net8.0\string1.exe
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_Strings\string1\bin\Debug\net8.0\string1.deps.json
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_Strings\string1\bin\Debug\net8.0\string1.runtimeconfig.json
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_Strings\string1\bin\Debug\net8.0\string1.dll
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_Strings\string1\bin\Debug\net8.0\string1.pdb
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_Strings\string1\obj\Debug\net8.0\string1.dll
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_Strings\string1\obj\Debug\net8.0\refint\string1.dll
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_Strings\string1\obj\Debug\net8.0\string1.pdb
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_Strings\string1\obj\Debug\net8.0\string1.genruntimeconfig.cache
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\c01_Strings\string1\obj\Debug\net8.0\ref\string1.dll

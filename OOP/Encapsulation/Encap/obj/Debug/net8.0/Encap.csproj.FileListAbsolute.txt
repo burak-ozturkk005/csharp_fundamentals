@@ -1,0 +1,14 @@
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Encapsulation\Encap\bin\Debug\net8.0\Encap.exe
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Encapsulation\Encap\bin\Debug\net8.0\Encap.deps.json
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Encapsulation\Encap\bin\Debug\net8.0\Encap.runtimeconfig.json
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Encapsulation\Encap\bin\Debug\net8.0\Encap.dll
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Encapsulation\Encap\bin\Debug\net8.0\Encap.pdb
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Encapsulation\Encap\obj\Debug\net8.0\Encap.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Encapsulation\Encap\obj\Debug\net8.0\Encap.AssemblyInfoInputs.cache
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Encapsulation\Encap\obj\Debug\net8.0\Encap.AssemblyInfo.cs
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Encapsulation\Encap\obj\Debug\net8.0\Encap.csproj.CoreCompileInputs.cache
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Encapsulation\Encap\obj\Debug\net8.0\Encap.dll
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Encapsulation\Encap\obj\Debug\net8.0\refint\Encap.dll
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Encapsulation\Encap\obj\Debug\net8.0\Encap.pdb
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Encapsulation\Encap\obj\Debug\net8.0\Encap.genruntimeconfig.cache
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\OOP\Encapsulation\Encap\obj\Debug\net8.0\ref\Encap.dll

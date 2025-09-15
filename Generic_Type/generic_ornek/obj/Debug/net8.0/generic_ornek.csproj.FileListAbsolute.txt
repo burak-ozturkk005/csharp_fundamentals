@@ -1,0 +1,14 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_ornek\obj\Debug\net8.0\generic_ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_ornek\obj\Debug\net8.0\generic_ornek.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_ornek\obj\Debug\net8.0\generic_ornek.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_ornek\obj\Debug\net8.0\generic_ornek.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_ornek\bin\Debug\net8.0\generic_ornek.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_ornek\bin\Debug\net8.0\generic_ornek.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_ornek\bin\Debug\net8.0\generic_ornek.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_ornek\bin\Debug\net8.0\generic_ornek.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_ornek\bin\Debug\net8.0\generic_ornek.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_ornek\obj\Debug\net8.0\generic_ornek.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_ornek\obj\Debug\net8.0\refint\generic_ornek.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_ornek\obj\Debug\net8.0\generic_ornek.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_ornek\obj\Debug\net8.0\generic_ornek.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\ders\linq_generics\generic_ornek\obj\Debug\net8.0\ref\generic_ornek.dll
