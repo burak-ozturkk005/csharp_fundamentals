@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\LINQ\00\linq0\bin\Debug\net9.0\linq0.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\LINQ\00\linq0\bin\Debug\net9.0\linq0.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\LINQ\00\linq0\bin\Debug\net9.0\linq0.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\LINQ\00\linq0\bin\Debug\net9.0\linq0.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\LINQ\00\linq0\bin\Debug\net9.0\linq0.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\LINQ\00\linq0\obj\Debug\net9.0\linq0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\LINQ\00\linq0\obj\Debug\net9.0\linq0.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\LINQ\00\linq0\obj\Debug\net9.0\linq0.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\LINQ\00\linq0\obj\Debug\net9.0\linq0.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\LINQ\00\linq0\obj\Debug\net9.0\linq0.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\LINQ\00\linq0\obj\Debug\net9.0\linq0.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\LINQ\00\linq0\obj\Debug\net9.0\refint\linq0.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\LINQ\00\linq0\obj\Debug\net9.0\linq0.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\LINQ\00\linq0\obj\Debug\net9.0\linq0.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\LINQ\00\linq0\obj\Debug\net9.0\ref\linq0.dll
