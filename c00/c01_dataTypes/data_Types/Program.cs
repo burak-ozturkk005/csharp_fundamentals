@@ -1,4 +1,5 @@
 ﻿//Value Data Types - Değer türünden Data Tipleri
+byte number = 0; // Range 0-255 8 bit
 short b = 16; //Range -2^(15) to 2^(15)-1. 16 bit
 int a = 32;//Range -2^(31) to 2(31) -1. 32 bit
 double d = 45; // 64 bit 8 byte
