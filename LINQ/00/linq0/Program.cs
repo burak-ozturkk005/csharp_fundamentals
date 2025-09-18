@@ -37,3 +37,8 @@ foreach(var cft in ciftSayilar)
 {
     Console.WriteLine(cft);
 }
+var ciftler = numbers.Where(x => x % 2 == 0).ToList();
+foreach(var ct in ciftler)
+{
+    Console.WriteLine(ct);
+}
