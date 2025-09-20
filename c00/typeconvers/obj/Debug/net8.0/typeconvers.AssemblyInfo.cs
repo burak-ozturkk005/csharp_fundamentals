@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("typeconvers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e257532bc64d658be7affa4438663fc12dac4e13")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83cf2b20a3c9b824f9bc68db67f29de75b1d7591")]
 [assembly: System.Reflection.AssemblyProductAttribute("typeconvers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("typeconvers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

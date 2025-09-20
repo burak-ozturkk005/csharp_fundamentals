@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\yaz\u0131l\u0131m\\chsarp\\fundamentals\\CSharp_Fundamentals\\OOP\\practice\\prac1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44CA7D61-4FD3-4A4B-B632-1172D27971AC}|prac1.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\yaz\u0131l\u0131m\\chsarp\\fundamentals\\csharp_fundamentals\\oop\\practice\\prac1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CA7D61-4FD3-4A4B-B632-1172D27971AC}|prac1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CA7D61-4FD3-4A4B-B632-1172D27971AC}|prac1.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\yaz\u0131l\u0131m\\chsarp\\fundamentals\\csharp_fundamentals\\oop\\practice\\prac1\\hayvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CA7D61-4FD3-4A4B-B632-1172D27971AC}|prac1.csproj|solutionrelative:hayvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hayvan.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\yaz\u0131l\u0131m\\chsarp\\fundamentals\\CSharp_Fundamentals\\OOP\\practice\\prac1\\Hayvan.cs",
+              "RelativeDocumentMoniker": "Hayvan.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\yaz\u0131l\u0131m\\chsarp\\fundamentals\\CSharp_Fundamentals\\OOP\\practice\\prac1\\Hayvan.cs",
+              "RelativeToolTip": "Hayvan.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T13:39:33.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\yaz\u0131l\u0131m\\chsarp\\fundamentals\\CSharp_Fundamentals\\OOP\\practice\\prac1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\yaz\u0131l\u0131m\\chsarp\\fundamentals\\CSharp_Fundamentals\\OOP\\practice\\prac1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T13:39:20.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

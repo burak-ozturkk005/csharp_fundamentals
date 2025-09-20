@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\Abstract2\abs2\obj\Debug\net9.0\abs2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\Abstract2\abs2\obj\Debug\net9.0\abs2.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\Abstract2\abs2\obj\Debug\net9.0\abs2.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\Abstract2\abs2\obj\Debug\net9.0\abs2.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\Abstract2\abs2\obj\Debug\net9.0\abs2.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\Abstract2\abs2\bin\Debug\net9.0\abs2.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\Abstract2\abs2\bin\Debug\net9.0\abs2.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\Abstract2\abs2\bin\Debug\net9.0\abs2.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\Abstract2\abs2\bin\Debug\net9.0\abs2.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\Abstract2\abs2\bin\Debug\net9.0\abs2.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\Abstract2\abs2\obj\Debug\net9.0\abs2.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\Abstract2\abs2\obj\Debug\net9.0\refint\abs2.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\Abstract2\abs2\obj\Debug\net9.0\abs2.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\Abstract2\abs2\obj\Debug\net9.0\abs2.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\Abstract2\abs2\obj\Debug\net9.0\ref\abs2.dll
