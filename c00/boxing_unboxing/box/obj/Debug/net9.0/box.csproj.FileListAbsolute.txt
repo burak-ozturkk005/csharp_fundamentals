@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c00\boxing_unboxing\box\bin\Debug\net9.0\box.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c00\boxing_unboxing\box\bin\Debug\net9.0\box.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c00\boxing_unboxing\box\bin\Debug\net9.0\box.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c00\boxing_unboxing\box\bin\Debug\net9.0\box.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c00\boxing_unboxing\box\bin\Debug\net9.0\box.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c00\boxing_unboxing\box\obj\Debug\net9.0\box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c00\boxing_unboxing\box\obj\Debug\net9.0\box.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c00\boxing_unboxing\box\obj\Debug\net9.0\box.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c00\boxing_unboxing\box\obj\Debug\net9.0\box.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c00\boxing_unboxing\box\obj\Debug\net9.0\box.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c00\boxing_unboxing\box\obj\Debug\net9.0\box.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c00\boxing_unboxing\box\obj\Debug\net9.0\refint\box.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c00\boxing_unboxing\box\obj\Debug\net9.0\box.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c00\boxing_unboxing\box\obj\Debug\net9.0\box.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c00\boxing_unboxing\box\obj\Debug\net9.0\ref\box.dll
