@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\ref_out\re-ou\obj\Debug\net9.0\re-ou.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\ref_out\re-ou\obj\Debug\net9.0\re-ou.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\ref_out\re-ou\obj\Debug\net9.0\re-ou.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\ref_out\re-ou\obj\Debug\net9.0\re-ou.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\ref_out\re-ou\obj\Debug\net9.0\re-ou.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\ref_out\re-ou\bin\Debug\net9.0\re-ou.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\ref_out\re-ou\bin\Debug\net9.0\re-ou.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\ref_out\re-ou\bin\Debug\net9.0\re-ou.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\ref_out\re-ou\bin\Debug\net9.0\re-ou.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\ref_out\re-ou\bin\Debug\net9.0\re-ou.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\ref_out\re-ou\obj\Debug\net9.0\re-ou.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\ref_out\re-ou\obj\Debug\net9.0\refint\re-ou.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\ref_out\re-ou\obj\Debug\net9.0\re-ou.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\ref_out\re-ou\obj\Debug\net9.0\re-ou.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\ref_out\re-ou\obj\Debug\net9.0\ref\re-ou.dll

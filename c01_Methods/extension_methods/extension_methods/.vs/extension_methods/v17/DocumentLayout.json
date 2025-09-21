@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\yaz\u0131l\u0131m\\chsarp\\fundamentals\\CSharp_Fundamentals\\c01_Methods\\extension_methods\\extension_methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33D6504E-3FFE-4FC0-B3AA-B0E01C978116}|extension_methods.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\yaz\u0131l\u0131m\\chsarp\\fundamentals\\csharp_fundamentals\\c01_methods\\extension_methods\\extension_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D6504E-3FFE-4FC0-B3AA-B0E01C978116}|extension_methods.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\yaz\u0131l\u0131m\\chsarp\\fundamentals\\CSharp_Fundamentals\\c01_Methods\\extension_methods\\extension_methods\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\yaz\u0131l\u0131m\\chsarp\\fundamentals\\CSharp_Fundamentals\\c01_Methods\\extension_methods\\extension_methods\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T09:45:00.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
