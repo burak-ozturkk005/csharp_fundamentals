@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\methods01\bin\mthds\bin\Debug\net9.0\mthds.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\methods01\bin\mthds\bin\Debug\net9.0\mthds.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\methods01\bin\mthds\bin\Debug\net9.0\mthds.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\methods01\bin\mthds\bin\Debug\net9.0\mthds.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\methods01\bin\mthds\bin\Debug\net9.0\mthds.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\methods01\bin\mthds\obj\Debug\net9.0\mthds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\methods01\bin\mthds\obj\Debug\net9.0\mthds.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\methods01\bin\mthds\obj\Debug\net9.0\mthds.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\methods01\bin\mthds\obj\Debug\net9.0\mthds.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\methods01\bin\mthds\obj\Debug\net9.0\mthds.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\methods01\bin\mthds\obj\Debug\net9.0\mthds.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\methods01\bin\mthds\obj\Debug\net9.0\refint\mthds.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\methods01\bin\mthds\obj\Debug\net9.0\mthds.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\methods01\bin\mthds\obj\Debug\net9.0\mthds.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Methods\methods01\bin\mthds\obj\Debug\net9.0\ref\mthds.dll
