@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\encapsulation\encap\bin\Debug\net9.0\encap.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\encapsulation\encap\bin\Debug\net9.0\encap.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\encapsulation\encap\bin\Debug\net9.0\encap.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\encapsulation\encap\bin\Debug\net9.0\encap.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\encapsulation\encap\bin\Debug\net9.0\encap.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\encapsulation\encap\obj\Debug\net9.0\encap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\encapsulation\encap\obj\Debug\net9.0\encap.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\encapsulation\encap\obj\Debug\net9.0\encap.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\encapsulation\encap\obj\Debug\net9.0\encap.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\encapsulation\encap\obj\Debug\net9.0\encap.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\encapsulation\encap\obj\Debug\net9.0\encap.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\encapsulation\encap\obj\Debug\net9.0\refint\encap.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\encapsulation\encap\obj\Debug\net9.0\encap.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\encapsulation\encap\obj\Debug\net9.0\encap.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\encapsulation\encap\obj\Debug\net9.0\ref\encap.dll
