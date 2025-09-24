@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\practice\prac2\prc2\bin\Debug\net9.0\prc2.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\practice\prac2\prc2\bin\Debug\net9.0\prc2.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\practice\prac2\prc2\bin\Debug\net9.0\prc2.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\practice\prac2\prc2\bin\Debug\net9.0\prc2.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\practice\prac2\prc2\bin\Debug\net9.0\prc2.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\practice\prac2\prc2\obj\Debug\net9.0\prc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\practice\prac2\prc2\obj\Debug\net9.0\prc2.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\practice\prac2\prc2\obj\Debug\net9.0\prc2.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\practice\prac2\prc2\obj\Debug\net9.0\prc2.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\practice\prac2\prc2\obj\Debug\net9.0\prc2.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\practice\prac2\prc2\obj\Debug\net9.0\prc2.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\practice\prac2\prc2\obj\Debug\net9.0\refint\prc2.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\practice\prac2\prc2\obj\Debug\net9.0\prc2.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\practice\prac2\prc2\obj\Debug\net9.0\prc2.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\OOP\practice\prac2\prc2\obj\Debug\net9.0\ref\prc2.dll
