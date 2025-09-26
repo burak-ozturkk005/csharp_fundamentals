@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Strings\str00\str01\bin\Debug\net9.0\str01.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Strings\str00\str01\bin\Debug\net9.0\str01.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Strings\str00\str01\bin\Debug\net9.0\str01.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Strings\str00\str01\bin\Debug\net9.0\str01.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Strings\str00\str01\bin\Debug\net9.0\str01.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Strings\str00\str01\obj\Debug\net9.0\str01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Strings\str00\str01\obj\Debug\net9.0\str01.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Strings\str00\str01\obj\Debug\net9.0\str01.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Strings\str00\str01\obj\Debug\net9.0\str01.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Strings\str00\str01\obj\Debug\net9.0\str01.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Strings\str00\str01\obj\Debug\net9.0\str01.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Strings\str00\str01\obj\Debug\net9.0\refint\str01.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Strings\str00\str01\obj\Debug\net9.0\str01.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Strings\str00\str01\obj\Debug\net9.0\str01.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\c01_Strings\str00\str01\obj\Debug\net9.0\ref\str01.dll
