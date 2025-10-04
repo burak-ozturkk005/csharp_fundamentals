@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "hesap-mak/1.0.0": {
+        "runtime": {
+          "hesap-mak.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hesap-mak/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\delegates\hesap_mak\hesap-mak\bin\Debug\net9.0\hesap-mak.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\delegates\hesap_mak\hesap-mak\bin\Debug\net9.0\hesap-mak.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\delegates\hesap_mak\hesap-mak\bin\Debug\net9.0\hesap-mak.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\delegates\hesap_mak\hesap-mak\bin\Debug\net9.0\hesap-mak.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\delegates\hesap_mak\hesap-mak\bin\Debug\net9.0\hesap-mak.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\delegates\hesap_mak\hesap-mak\obj\Debug\net9.0\hesap-mak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\delegates\hesap_mak\hesap-mak\obj\Debug\net9.0\hesap-mak.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\delegates\hesap_mak\hesap-mak\obj\Debug\net9.0\hesap-mak.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\delegates\hesap_mak\hesap-mak\obj\Debug\net9.0\hesap-mak.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\delegates\hesap_mak\hesap-mak\obj\Debug\net9.0\hesap-mak.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\delegates\hesap_mak\hesap-mak\obj\Debug\net9.0\hesap-mak.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\delegates\hesap_mak\hesap-mak\obj\Debug\net9.0\refint\hesap-mak.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\delegates\hesap_mak\hesap-mak\obj\Debug\net9.0\hesap-mak.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\delegates\hesap_mak\hesap-mak\obj\Debug\net9.0\hesap-mak.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\delegates\hesap_mak\hesap-mak\obj\Debug\net9.0\ref\hesap-mak.dll
