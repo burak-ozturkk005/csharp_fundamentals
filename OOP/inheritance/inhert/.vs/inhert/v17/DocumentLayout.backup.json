@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{7AB05FE1-4A3F-4A81-8F35-37E58FFB2296}|inhert.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\yaz\u0131l\u0131m\\chsarp\\fundamentals\\csharp_fundamentals\\oop\\inheritance\\inhert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AB05FE1-4A3F-4A81-8F35-37E58FFB2296}|inhert.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB05FE1-4A3F-4A81-8F35-37E58FFB2296}|inhert.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\yaz\u0131l\u0131m\\chsarp\\fundamentals\\csharp_fundamentals\\oop\\inheritance\\inhert\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB05FE1-4A3F-4A81-8F35-37E58FFB2296}|inhert.csproj|solutionrelative:kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kisi.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\yaz\u0131l\u0131m\\chsarp\\fundamentals\\CSharp_Fundamentals\\OOP\\inheritance\\inhert\\Kisi.cs",
+              "RelativeDocumentMoniker": "Kisi.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\yaz\u0131l\u0131m\\chsarp\\fundamentals\\CSharp_Fundamentals\\OOP\\inheritance\\inhert\\Kisi.cs",
+              "RelativeToolTip": "Kisi.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T07:44:26.83Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\yaz\u0131l\u0131m\\chsarp\\fundamentals\\CSharp_Fundamentals\\OOP\\inheritance\\inhert\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T07:43:45.263Z",
               "EditorCaption": ""

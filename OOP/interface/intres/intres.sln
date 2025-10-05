@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "intres", "intres.csproj", "{122F7A6C-2C98-4DA2-A7DA-60A7130DEE78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{122F7A6C-2C98-4DA2-A7DA-60A7130DEE78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122F7A6C-2C98-4DA2-A7DA-60A7130DEE78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{122F7A6C-2C98-4DA2-A7DA-60A7130DEE78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122F7A6C-2C98-4DA2-A7DA-60A7130DEE78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {381AB32F-5138-4C50-BEF2-FF582BEF659F}
+	EndGlobalSection
+EndGlobal
