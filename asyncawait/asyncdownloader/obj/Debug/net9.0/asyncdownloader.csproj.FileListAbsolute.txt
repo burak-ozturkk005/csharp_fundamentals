@@ -1,0 +1,14 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\projelerim\asyncdownloader\bin\Debug\net9.0\asyncdownloader.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\projelerim\asyncdownloader\bin\Debug\net9.0\asyncdownloader.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\projelerim\asyncdownloader\bin\Debug\net9.0\asyncdownloader.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\projelerim\asyncdownloader\bin\Debug\net9.0\asyncdownloader.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\projelerim\asyncdownloader\bin\Debug\net9.0\asyncdownloader.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\projelerim\asyncdownloader\obj\Debug\net9.0\asyncdownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\projelerim\asyncdownloader\obj\Debug\net9.0\asyncdownloader.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\projelerim\asyncdownloader\obj\Debug\net9.0\asyncdownloader.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\projelerim\asyncdownloader\obj\Debug\net9.0\asyncdownloader.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\projelerim\asyncdownloader\obj\Debug\net9.0\asyncdownloader.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\projelerim\asyncdownloader\obj\Debug\net9.0\refint\asyncdownloader.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\projelerim\asyncdownloader\obj\Debug\net9.0\asyncdownloader.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\projelerim\asyncdownloader\obj\Debug\net9.0\asyncdownloader.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\projelerim\asyncdownloader\obj\Debug\net9.0\ref\asyncdownloader.dll
