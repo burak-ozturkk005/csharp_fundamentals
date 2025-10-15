@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\burak\\OneDrive\\Masaüstü\\yazılım\\chsarp\\fundamentals\\CSharp_Fundamentals\\c02_lists\\lists01\\lists01.csproj": {}
+    "C:\\Users\\burak\\OneDrive\\Masaüstü\\yazılım\\chsarp\\fundamentals\\CSharp_Fundamentals\\Collections\\c02_lists\\lists01\\lists01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\burak\\OneDrive\\Masaüstü\\yazılım\\chsarp\\fundamentals\\CSharp_Fundamentals\\c02_lists\\lists01\\lists01.csproj": {
+    "C:\\Users\\burak\\OneDrive\\Masaüstü\\yazılım\\chsarp\\fundamentals\\CSharp_Fundamentals\\Collections\\c02_lists\\lists01\\lists01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\burak\\OneDrive\\Masaüstü\\yazılım\\chsarp\\fundamentals\\CSharp_Fundamentals\\c02_lists\\lists01\\lists01.csproj",
+        "projectUniqueName": "C:\\Users\\burak\\OneDrive\\Masaüstü\\yazılım\\chsarp\\fundamentals\\CSharp_Fundamentals\\Collections\\c02_lists\\lists01\\lists01.csproj",
         "projectName": "lists01",
-        "projectPath": "C:\\Users\\burak\\OneDrive\\Masaüstü\\yazılım\\chsarp\\fundamentals\\CSharp_Fundamentals\\c02_lists\\lists01\\lists01.csproj",
+        "projectPath": "C:\\Users\\burak\\OneDrive\\Masaüstü\\yazılım\\chsarp\\fundamentals\\CSharp_Fundamentals\\Collections\\c02_lists\\lists01\\lists01.csproj",
         "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\burak\\OneDrive\\Masaüstü\\yazılım\\chsarp\\fundamentals\\CSharp_Fundamentals\\c02_lists\\lists01\\obj\\",
+        "outputPath": "C:\\Users\\burak\\OneDrive\\Masaüstü\\yazılım\\chsarp\\fundamentals\\CSharp_Fundamentals\\Collections\\c02_lists\\lists01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

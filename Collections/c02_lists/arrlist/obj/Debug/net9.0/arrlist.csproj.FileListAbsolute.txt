@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\Collections\c02_lists\arrlist\bin\Debug\net9.0\arrlist.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\Collections\c02_lists\arrlist\bin\Debug\net9.0\arrlist.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\Collections\c02_lists\arrlist\bin\Debug\net9.0\arrlist.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\Collections\c02_lists\arrlist\bin\Debug\net9.0\arrlist.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\Collections\c02_lists\arrlist\bin\Debug\net9.0\arrlist.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\Collections\c02_lists\arrlist\obj\Debug\net9.0\arrlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\Collections\c02_lists\arrlist\obj\Debug\net9.0\arrlist.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\Collections\c02_lists\arrlist\obj\Debug\net9.0\arrlist.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\Collections\c02_lists\arrlist\obj\Debug\net9.0\arrlist.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\Collections\c02_lists\arrlist\obj\Debug\net9.0\arrlist.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\Collections\c02_lists\arrlist\obj\Debug\net9.0\arrlist.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\Collections\c02_lists\arrlist\obj\Debug\net9.0\refint\arrlist.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\Collections\c02_lists\arrlist\obj\Debug\net9.0\arrlist.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\Collections\c02_lists\arrlist\obj\Debug\net9.0\arrlist.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\fundamentals\CSharp_Fundamentals\Collections\c02_lists\arrlist\obj\Debug\net9.0\ref\arrlist.dll
